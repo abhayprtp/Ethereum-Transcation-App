@@ -59,11 +59,6 @@ This project is a decentralized application (dApp) built on Ethereum using Hardh
 
 Contributions are welcome! If you have suggestions, improvements, or encounter issues, please create an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
 
 **Owned by Abhay Singh**
 
